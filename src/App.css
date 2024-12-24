@@ -1,13 +1,5 @@
-.singup{
+.signup{
     background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
-    max-width: 100%;
-    height: 87vh;
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-position: fixed;
-    background-size: cover;
 }
 .from{
     background-color: aliceblue;
@@ -16,4 +8,7 @@
     border-radius: 30px;
     width: 400px;
     
+}
+.fromin{
+    background-color: rgb(255 255 255 / 32%);
 }
